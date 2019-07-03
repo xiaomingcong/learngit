@@ -1,3 +1,7 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-Creating a new branch id quick & simple.
+<<<<<<< HEAD
+Creating a new branch id quick AND simple.
+=======
+Creating a new branch id quick AND simple.
+>>>>>>> featurel
